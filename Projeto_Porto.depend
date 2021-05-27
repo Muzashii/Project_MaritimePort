@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622079915 source:c:\users\evert\desktop\trabalhos faculdade\exercicios c\projeto_porto\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+
